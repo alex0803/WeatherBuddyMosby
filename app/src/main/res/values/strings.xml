@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherBuddyMosby</string>
+    <string name="toobar_title">"      WeatherBuddy"</string>
+    <string name="search_city_hint">search for cities</string>
+    <string name="fetch_city_suggestion_error">fetch city suggestion error</string>
+    <string name="action_settings">Refresh</string>
+    <string name="city_name">Regina</string>
+    <string name="searchLabel">search for cities</string>
+    <string name="searchHint">search for cities</string>
+    <string name="app_label">search for cities</string>
+    <string name="transition_icon">transition:icon</string>
+    <string name="transition_cityname">transition:cityname</string>
+    <string name="transition_date">transition:date</string>
+    <string name="transition_temp">transition:temp</string>
+    <string name="transition_description">transition:description</string>
+    <string name="transition_humidity">transition:humidity</string>
+    <string name="transition_speed">transition:speed</string>
+    <string name="citynamelist_null_text">Please select a city</string>
+    <string name="select_city_notice">select a city please</string>
+</resources>
