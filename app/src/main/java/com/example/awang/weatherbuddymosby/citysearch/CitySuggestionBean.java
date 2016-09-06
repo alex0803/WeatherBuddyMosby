@@ -82,8 +82,7 @@ public class CitySuggestionBean {
         }
 
     }
-
-
+    
     public class Term {
         private int offset;
 
