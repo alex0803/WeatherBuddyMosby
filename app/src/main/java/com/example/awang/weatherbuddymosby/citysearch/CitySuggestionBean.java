@@ -100,7 +100,6 @@ public class CitySuggestionBean {
         public String getValue(){
             return this.value;
         }
-
     }
 
     public class Matched_substring {
